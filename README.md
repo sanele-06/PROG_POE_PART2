@@ -11,3 +11,9 @@ This project contains Java unit tests for Part 2.
 
 ## How to run
 mvn test
+
+## Final Submission
+GitHub Actions configured with actions/checkout@v5 and actions/setup-java@v5
+Build command: mvn -B package
+Commits: 6
+Status: Ready for submission - Part 2
